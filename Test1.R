@@ -1,1 +1,1 @@
-test <- . %>% length()
+test <- . %>% length() %>% summarize()
